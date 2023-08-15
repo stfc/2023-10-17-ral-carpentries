@@ -275,7 +275,7 @@ Please register your interest for the workshops using your STFC email address. P
 </p>
 
 <p class="text-center">
-  <a href="https://forms.office.com/e/SF1bj7rAAZ">
+  <a href="https://forms.office.com/e/TZ7PKqhmPw">
     <button type="button" class="btn btn-info">Register interest</button>
   </a>
 </p>
